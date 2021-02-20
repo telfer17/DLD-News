@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4811 271">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 220px;
+        font-family: DINCondensed-Bold, DIN Condensed;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_66" data-name="Group 66" transform="translate(3593 8688)">
+    <rect id="Rectangle_438" data-name="Rectangle 438" width="4811" height="262" transform="translate(-3593 -8688)"/>
+    <rect id="Rectangle_439" data-name="Rectangle 439" class="cls-1" width="180" height="180" transform="translate(-955 -8649)"/>
+    <rect id="Rectangle_440" data-name="Rectangle 440" class="cls-1" width="180" height="180" transform="translate(-1309 -8649)"/>
+    <g id="Path_20" data-name="Path 20" class="cls-2" transform="translate(-1615 -8659)">
+      <path class="cls-5" d="M201,201h0Z"/>
+      <path class="cls-6" d="M 0 201 L 201 201 L 0 201 Z"/>
+    </g>
+    <rect id="Rectangle_441" data-name="Rectangle 441" class="cls-1" width="180" height="180" transform="translate(-1676 -8649)"/>
+    <text id="D" class="cls-3" transform="translate(-1635 -8637)"><tspan x="0" y="157">D</tspan></text>
+    <text id="L" class="cls-4" transform="translate(-1472 -8637)"><tspan x="0" y="157">L</tspan></text>
+    <text id="N" class="cls-3" transform="translate(-1268 -8637)"><tspan x="0" y="157">N</tspan></text>
+    <text id="E" class="cls-4" transform="translate(-1086 -8637)"><tspan x="0" y="157">E</tspan></text>
+    <text id="W" class="cls-3" transform="translate(-929 -8637)"><tspan x="0" y="157">W</tspan></text>
+    <text id="S" class="cls-4" transform="translate(-727 -8637)"><tspan x="0" y="157">S</tspan></text>
+  </g>
+</svg>
